@@ -1,4 +1,4 @@
-package com.vengat.tuts;
+package com.vengat.lift;
 
 public class Lift {
 

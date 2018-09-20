@@ -1,4 +1,4 @@
-package com.vengat.tuts;
+package com.vengat.lift;
 
 import java.util.ArrayList;
 import java.util.concurrent.ExecutorService;
