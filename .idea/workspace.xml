@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cd74440-672c-49e3-ad84-a492f54008e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/MyTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/DisplayClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyMinutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MySeconds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/JoiningThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/NotifyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/NotifyingThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/WaitingThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/Lift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vengat/lift/Lift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/OperateLift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vengat/lift/OperateLift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vengat/tuts/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vengat/lift/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vengat/MyTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vengat/MyTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyHours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyHours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyMinutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyMinutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MySeconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MySeconds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyVariables.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,8 +25,8 @@
       <file leaf-file-name="MyVariables.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyVariables.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <state relative-caret-position="119">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -45,8 +34,8 @@
       <file leaf-file-name="DisplayClock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/DisplayClock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-132">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
               <folding>
                 <element signature="e#140#141#0" expanded="true" />
                 <element signature="e#177#178#0" expanded="true" />
@@ -70,10 +59,9 @@
       <file leaf-file-name="MyTimer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/MyTimer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+            <state relative-caret-position="124">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
-                <element signature="e#986#987#0" expanded="true" />
                 <element signature="e#1018#1019#0" expanded="true" />
                 <element signature="e#1068#1069#0" expanded="true" />
                 <element signature="e#1110#1111#0" expanded="true" />
@@ -99,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MySeconds.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MySeconds.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MySeconds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="323">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#162#163#0" expanded="true" />
                 <element signature="e#199#200#0" expanded="true" />
@@ -112,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyMinutes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyMinutes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyMinutes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+            <state relative-caret-position="153">
+              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="43" />
               <folding>
                 <element signature="e#162#163#0" expanded="true" />
                 <element signature="e#200#201#0" expanded="true" />
@@ -128,8 +116,8 @@
       <file leaf-file-name="MyHours.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyHours.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+            <state relative-caret-position="221">
+              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
               <folding>
                 <element signature="e#145#146#0" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
@@ -171,13 +159,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/vengat/tuts/digital_clock/MyHours.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vengat/tuts/digital_clock/MySeconds.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vengat/lift/Lift.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MySeconds.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyTimer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vengat/DisplayClock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vengat/MyTimer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/DisplayClock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyHours.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyVariables.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyMinutes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyHours.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MySeconds.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vengat/MyTimer.java" />
       </list>
     </option>
   </component>
@@ -189,10 +178,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="y" value="-7" />
-    <option name="width" value="1732" />
-    <option name="height" value="935" />
+    <option name="x" value="-8" />
+    <option name="width" value="1383" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -425,8 +413,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -434,21 +421,21 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.38118812" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.3988604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.38118812" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.32905984" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33888048" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30067113" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.32838285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" visible="true" weight="0.3988604" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -462,6 +449,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MySeconds.java</url>
+          <line>23</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/lift/Lift.java">
@@ -704,17 +703,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyVariables.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyMinutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyHours.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/DisplayClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/MyTimer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+        <state relative-caret-position="124">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#986#987#0" expanded="true" />
             <element signature="e#1018#1019#0" expanded="true" />
             <element signature="e#1068#1069#0" expanded="true" />
             <element signature="e#1110#1111#0" expanded="true" />
@@ -732,44 +763,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MySeconds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="323">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#162#163#0" expanded="true" />
             <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/DisplayClock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyHours.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vengat/digital_clock/MyMinutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
           </folding>
         </state>
       </provider>

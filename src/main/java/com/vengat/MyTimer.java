@@ -15,6 +15,7 @@ public class MyTimer {
         if(mySeconds > 58) {
             mySeconds = 0;
         } else {
+            System.out.println("Secs");
             mySeconds++;
         }
     }
@@ -39,9 +40,9 @@ public class MyTimer {
         String mySec = new Double(mySeconds).toString();
         String myMin = new Double(myMinutes).toString();
         String myHr = new Double(myHours).toString();
-        if(mySec.length() == 1) mySec = "0" + mySec;
-        if(myMin.length() == 1) myMin = "0" + myMin;
-        if(myHr.length() == 1) myHr = "0" + myHr;
+//        if(mySec.length() == 1) mySec = "0" + mySec;
+//        if(myMin.length() == 1) myMin = "0" + myMin;
+//        if(myHr.length() == 1) myHr = "0" + myHr;
         return myHr+" : "+myMin+" : "+mySec;
     }
 

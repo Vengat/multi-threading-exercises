@@ -12,8 +12,11 @@ public class MyHours implements Runnable {
     @Override
     public void run() {
         synchronized (myTimer) {
-            while(true) {
-                if(myTimer.getMyMinutes() == 0 && myTimer.getMySeconds() == 0) myTimer.incrementHours();
+            while(MyVariables.UPDATE_HOURS) {
+                myTimer.incrementHours();
+                MyVariables.UPDATE_HOURS = false;
+                MyVariables.UPDATE_MINUTES = false;
+                MyVariables.UPDATE_SECONDS = true;
                 try {
                     myTimer.wait();
                 } catch (InterruptedException e) {

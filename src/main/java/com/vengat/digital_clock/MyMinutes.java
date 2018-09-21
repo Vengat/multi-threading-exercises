@@ -13,8 +13,15 @@ public class MyMinutes implements Runnable {
     @Override
     public void run() {
         synchronized (myTimer) {
-            while(true) {
-                if (myTimer.getMySeconds() == 0) myTimer.incrementMinutes();
+            while(MyVariables.UPDATE_MINUTES) {
+                if(myTimer.getMyMinutes() > 58) MyVariables.UPDATE_HOURS = true;
+                myTimer.incrementMinutes();
+                MyVariables.UPDATE_MINUTES = false;
+                if(MyVariables.UPDATE_HOURS) {
+                    MyVariables.UPDATE_SECONDS = false;
+                } else {
+                    MyVariables.UPDATE_SECONDS = true;
+                }
                 try {
                     myTimer.wait();
                 } catch (InterruptedException e) {
