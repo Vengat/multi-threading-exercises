@@ -30,14 +30,6 @@ public class MyMinutes implements Runnable {
                 myTimer.notifyAll();
             }
 
-//            if(myTimer.getMyMinutes() == 0) {
-//                try {
-//                    myTimer.wait();
-//                } catch (InterruptedException e) {
-//                    e.printStackTrace();
-//                }
-//                myTimer.notifyAll();
-//            }
         }
 
     }
